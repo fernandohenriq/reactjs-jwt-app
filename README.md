@@ -10,4 +10,4 @@ JSON Web Tokens) for authentication and Axios for connection to a backend.
 `npm start`
 
 # Test
-To test without a backend: When trying to access, in the connection error there will be an option to login with a test JWT.
+When trying to login, in the connection error there will be an option to login with a test JWT.
