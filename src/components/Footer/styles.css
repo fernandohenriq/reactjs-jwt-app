@@ -1,0 +1,23 @@
+#footer {
+  width: 100%;
+  background-color: #c2c2c2;
+}
+
+#footer .container {
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+#footer a {
+  margin-left: 1rem;
+  text-decoration: none;
+  text-decoration: inherit;
+  color: inherit;
+  font-size: 1.25rem;
+}
+
+#footer a:first-of-type {
+  /* margin-left: 0; */
+}
