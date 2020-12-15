@@ -8,6 +8,3 @@ JSON Web Tokens) for authentication and Axios for connection to a backend.
 
 ### Run the project
 `npm start`
-
-# Test
-When trying to login, in the connection error there will be an option to login with a test JWT.
